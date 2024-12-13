@@ -1,0 +1,6 @@
+{
+    "notification_time": 20,
+    "email_enabled": true,
+    "email": "youremail@example.com",
+    "email_password": "your-app-password"
+}
